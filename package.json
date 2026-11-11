@@ -1,3 +1,10 @@
-"scripts": {
-  "start": "node server.js"
+
+{
+  "name": "node-server-project",
+  "version": "1.0.0",
+  "description": "Basic Node.js Web Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
 }
